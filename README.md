@@ -58,4 +58,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 3 – Multi-Page Website](https://github.com/abhishekjambhale18-creator/BiteBox-Website-Nevigations) | Next Lab Coming Soon →
+← [Lab 3 – Multi-Page Website](https://github.com/abhishekjambhale18-creator/BiteBox-Website-Nevigations) | [Lab 5 – Semantic HTML](https://github.com/abhishekjambhale18-creator/BiteBox-Semantic-HTML) →
