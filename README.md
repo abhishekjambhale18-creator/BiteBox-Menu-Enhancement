@@ -50,8 +50,6 @@ New features like food images, dish descriptions, unordered lists for categories
 2. Open `index.html` in any web browser
 3. Go to the **Menu** page to see the enhancements
 
-> **Note:** Change image paths from absolute (`D:\BITEBOX\...`) to relative paths like `assets/images/pizza.png` so images work on GitHub.
-
 ---
 
 ### 🧰 Tools Used
